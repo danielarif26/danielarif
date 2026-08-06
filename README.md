@@ -1,5 +1,6 @@
 <p align="center">
   <img src="assets/banner.svg" alt="danielarif banner" width="100%" />
+<img src="assets/hero.jpg" alt="single glowing seed sprout" width="100%">
 </p>
 
 # danielarif
